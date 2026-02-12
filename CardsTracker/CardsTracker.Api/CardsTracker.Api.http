@@ -1,0 +1,6 @@
+@CardsTracker.Api_HostAddress = http://localhost:5120
+
+GET {{CardsTracker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

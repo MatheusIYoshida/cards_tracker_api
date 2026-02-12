@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CardsTracker.Api/CardsTracker.Api.csproj" />
+  <Project Path="CardsTracker.Domain/CardsTracker.Domain.csproj" />
+</Solution>
